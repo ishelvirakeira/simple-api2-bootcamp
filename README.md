@@ -2,21 +2,9 @@
 
 ### Goal: Display data returned from an api
 
-### How to submit your code for review:
+This simple API allows a user to enter the breed name of a cat and fetch information about that breed from the CAT API. We display the cat name, its origin, lifespan, temperament, and description in the DOM.
+<img width="493" height="400" alt="simple cat api" src="https://github.com/user-attachments/assets/d3304ca0-9839-4b0a-b159-8b6868d0bdcd" />
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+Tools used: HTML, CSS, JavaScript, and the cat API
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+I continued to improve my skills of inspecting the API response in the console and extracting the correct properties. 
